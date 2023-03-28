@@ -1,0 +1,6 @@
+{
+this is my new file2
+}
+{
+this clone the date from to git bash
+}
